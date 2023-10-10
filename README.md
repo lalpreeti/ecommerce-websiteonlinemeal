@@ -37,7 +37,7 @@ Explore the different sections, navigate through the site, and interact with the
 Contributions and improvements to the project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
 # Credits:
-This project is created by Umesh Gupta, as part of their Full Stack Web Development Course at AccioJob.
+This project is created by Preeti Ajay Kumar, as part of their Full Stack Web Development Course at AccioJob.
 
 # License:
 This project is available under an open-source license. Please refer to the LICENSE file for more details.
