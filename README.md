@@ -1,4 +1,4 @@
-# E-commerce Website Online Meal:
+# GitHub Repository Description: E-commerce Website Online Meal:
 The project focuses on developing a user-friendly e-commerce website for ordering meals online. Users can explore various food options, place orders, and contact the service providers through the website.
 
 # Introduction:
